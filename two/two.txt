@@ -2,3 +2,4 @@ this is new file in master branch
 this work done in newmode 
 newmode branch is created
 add another work on master branch
+seventh fix in master
