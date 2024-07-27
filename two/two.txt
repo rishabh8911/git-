@@ -4,3 +4,4 @@ newmode branch is created
 one more bug detected in newmode branch
 fourth bug fixes
 sixth bug is fixed
+another merge 
