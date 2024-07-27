@@ -5,4 +5,4 @@ add footer to the application
 one more bug detected in newmode branch
 fourth bug fixes
 sixth bug is fixed
-
+web3 rust
