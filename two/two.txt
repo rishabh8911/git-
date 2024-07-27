@@ -1,1 +1,3 @@
-this is new file
+this is new file in master branch 
+this work done in newmode 
+newmode branch is created
