@@ -1,9 +1,5 @@
 this is new file in master branch 
 this work done in newmode 
 newmode branch is created
-add footer to the application
-one more bug detected in newmode branch
-web3 rust blockchain
-another testing 
 year 2025
 year 2026
