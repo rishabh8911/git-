@@ -9,3 +9,5 @@ git stash in newmode
 git another stash
 >>>>>>> Stashed changes
 another pinkmode fixes
+another bug fix for purplemode
+
