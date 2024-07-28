@@ -2,4 +2,6 @@ this is new file in master branch
 this work done in newmode 
 newmode branch is created
 year 2025
+web3 rust blockchain
+another testing 
 year 2026
