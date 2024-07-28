@@ -6,3 +6,5 @@ web3 rust blockchain
 another testing 
 year 2026
 git stash in newmode
+git another stash
+>>>>>>> Stashed changes
