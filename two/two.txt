@@ -1,10 +1,6 @@
 this is new file in master branch 
 this work done in newmode 
 newmode branch is created
-one more bug detected in newmode branch
-fourth bug fixes
-sixth bug is fixed
-another merge 
 web3 rust blockchain
 another testing 
 year 2026
