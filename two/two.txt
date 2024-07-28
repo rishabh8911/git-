@@ -8,3 +8,4 @@ year 2026
 git stash in newmode
 git another stash
 >>>>>>> Stashed changes
+another pinkmode fixes
